@@ -16,8 +16,7 @@
 
 1. 浏览器安装用户脚本管理器插件，推荐使用 **[Tampermonkey](https://www.tampermonkey.net/)** (油猴)。
 2. 点击下方链接一键安装脚本：
-   👉 [点击此处安装脚本]([https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/HUST-Course-Helper-Pro.user.js](https://greasyfork.org/zh-CN/scripts/569003-%E5%8D%8E%E7%A7%91%E8%AF%BE%E7%A8%8B%E5%B9%B3%E5%8F%B0%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E5%8A%A9%E6%89%8B-%E5%85%A8%E8%87%AA%E5%8A%A8%E6%97%A0%E9%98%BB%E6%8B%A6%E7%89%88))
-   *(如果你已经在 GreasyFork 发布，也可以在这里放 GreasyFork 的链接)*
+   👉 **[点击此处安装脚本]([https://raw.githubusercontent.com/<你的用户名>/<你的仓库名>/main/HUST-Course-Helper-Pro.user.js](https://greasyfork.org/zh-CN/scripts/569003-%E5%8D%8E%E7%A7%91%E8%AF%BE%E7%A8%8B%E5%B9%B3%E5%8F%B0%E8%87%AA%E5%8A%A8%E5%88%B7%E8%AF%BE%E5%8A%A9%E6%89%8B-%E5%85%A8%E8%87%AA%E5%8A%A8%E6%97%A0%E9%98%BB%E6%8B%A6%E7%89%88))**
 
 ## 📖 使用说明
 
